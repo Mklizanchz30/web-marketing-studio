@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scroll-Scrubbed Visual Sequence"
+  short_description: "Build reversible scroll-controlled visuals"
+  default_prompt: "Use $scroll-scrubbed-visual-sequence to build this reversible scroll-driven visual."

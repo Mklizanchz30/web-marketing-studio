@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scroll-Scrubbed Word Reveal"
+  short_description: "Reveal text by scroll without breaking semantics"
+  default_prompt: "Use $scroll-scrubbed-word-reveal to pace this text with accessible scroll progress."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reveal Hover Effect"
+  short_description: "Build accessible cursor-following image reveals"
+  default_prompt: "Use $reveal-hover-effect to build an aligned spotlight reveal with touch fallback."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "No AI Design Slop"
+  short_description: "Prevent generic, incoherent UI decisions"
+  default_prompt: "Use $no-ai-design-slop to improve this interface while preserving its art direction."

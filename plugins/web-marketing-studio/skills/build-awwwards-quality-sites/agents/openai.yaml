@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awwwards-Quality Sites"
+  short_description: "Art-direct premium, motion-led websites"
+  default_prompt: "Use $build-awwwards-quality-sites to design and build a distinctive premium website from these requirements."

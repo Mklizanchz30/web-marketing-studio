@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scroll Progress Timeline"
+  short_description: "Build semantic progress stories on scroll"
+  default_prompt: "Use $scroll-progress-timeline to turn this process into a responsive scroll timeline."

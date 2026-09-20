@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "web-marketing-studio",
-  "version": "0.1.0",
-  "description": "Conversion, copy, design, and quality workflows for local-service websites and marketing.",
+  "version": "0.2.0",
+  "description": "Conversion, art direction, design quality, and accessible web-motion workflows.",
   "author": {
     "name": "Personal workspace"
   },
@@ -19,8 +19,8 @@
     "com.openai": {
       "interface": {
         "displayName": "Web Marketing Studio",
-        "shortDescription": "Human conversion workflows for local websites",
-        "longDescription": "Plan, write, rewrite, and audit local-service websites with credible copy, verified proof, local SEO, accessibility, and clear lead-generation paths.",
+        "shortDescription": "Conversion, design quality, and web motion systems",
+        "longDescription": "Plan, build, rewrite, and audit distinctive websites with credible conversion copy, original art direction, accessible interaction, scroll storytelling, and verified performance safeguards.",
         "developerName": "Personal workspace",
         "category": "Productivity",
         "capabilities": [
@@ -28,9 +28,9 @@
           "Write"
         ],
         "defaultPrompt": [
-          "Plan a local-service page that generates qualified leads.",
-          "Rewrite this page with credible, human conversion copy.",
-          "Audit this service page for trust, SEO, and lead friction."
+          "Plan and build a distinctive conversion-focused service website.",
+          "Audit this interface for generic design patterns and access issues.",
+          "Implement this scroll interaction with fallbacks and reduced motion."
         ],
         "brandColor": "#0F766E"
       }

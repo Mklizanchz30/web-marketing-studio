@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Technique to Skill"
+  short_description: "Package proven web effects as reusable skills"
+  default_prompt: "Use $web-technique-to-skill to turn this working web effect into a reusable skill."

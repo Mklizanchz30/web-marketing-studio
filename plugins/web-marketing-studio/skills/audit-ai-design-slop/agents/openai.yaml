@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audit AI Design Slop"
+  short_description: "Audit generic UI patterns with evidence"
+  default_prompt: "Use $audit-ai-design-slop to audit this interface and prioritize removal-first corrections."
