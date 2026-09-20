@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reference Brand Worlds"
+  short_description: "Create original brand worlds from references"
+  default_prompt: "Use $reference-brand-worlds-web to create distinct brand directions from these references without copying their identity."

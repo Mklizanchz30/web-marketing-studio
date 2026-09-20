@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Animation Performance"
+  short_description: "Measure and optimize web animation costs"
+  default_prompt: "Use $web-animation-performance to measure this page, fix the animation bottlenecks, and verify the result."

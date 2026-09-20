@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reference Originality Audit"
+  short_description: "Audit websites against design references"
+  default_prompt: "Use $reference-originality-web to compare this web experience with its references and report evidence-backed originality risks."

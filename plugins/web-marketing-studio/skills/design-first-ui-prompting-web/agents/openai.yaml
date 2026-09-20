@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design-First UI Prompting"
+  short_description: "Build precise UI specs for web generation"
+  default_prompt: "Use $design-first-ui-prompting-web to turn this UI idea into a precise, implementation-ready web brief."

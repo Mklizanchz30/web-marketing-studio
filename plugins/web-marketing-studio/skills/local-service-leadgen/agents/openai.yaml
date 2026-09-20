@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Service Lead Generation"
+  short_description: "Human conversion copy for local services"
+  default_prompt: "Use $local-service-leadgen to plan and write a credible local-service page that generates qualified calls and quote requests."

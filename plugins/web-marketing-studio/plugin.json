@@ -1,0 +1,39 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "web-marketing-studio",
+  "version": "0.1.0",
+  "description": "Conversion, copy, design, and quality workflows for local-service websites and marketing.",
+  "author": {
+    "name": "Personal workspace"
+  },
+  "license": "MIT",
+  "keywords": [
+    "web-design",
+    "local-services",
+    "lead-generation",
+    "copywriting",
+    "seo",
+    "marketing"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Web Marketing Studio",
+        "shortDescription": "Human conversion workflows for local websites",
+        "longDescription": "Plan, write, rewrite, and audit local-service websites with credible copy, verified proof, local SEO, accessibility, and clear lead-generation paths.",
+        "developerName": "Personal workspace",
+        "category": "Productivity",
+        "capabilities": [
+          "Read",
+          "Write"
+        ],
+        "defaultPrompt": [
+          "Plan a local-service page that generates qualified leads.",
+          "Rewrite this page with credible, human conversion copy.",
+          "Audit this service page for trust, SEO, and lead friction."
+        ],
+        "brandColor": "#0F766E"
+      }
+    }
+  }
+}

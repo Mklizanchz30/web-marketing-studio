@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video to Web Superprompt"
+  short_description: "Turn reference videos into build prompts"
+  default_prompt: "Use $video-to-superprompt-web to analyze this reference video and produce an evidence-based implementation prompt."
