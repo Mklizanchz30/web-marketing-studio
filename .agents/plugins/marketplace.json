@@ -1,0 +1,20 @@
+{
+  "name": "web-marketing-studio-marketplace",
+  "interface": {
+    "displayName": "Web Marketing Studio"
+  },
+  "plugins": [
+    {
+      "name": "web-marketing-studio",
+      "source": {
+        "source": "local",
+        "path": "./plugins/web-marketing-studio"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
